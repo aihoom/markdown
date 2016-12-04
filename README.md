@@ -13,5 +13,5 @@
 
 
   [1]: https://www.aihoom.cn
-  [2]: www.99xin.me
+  [2]: http://www.99xin.me
   [3]: https://www.aihoom.cn/776.html
